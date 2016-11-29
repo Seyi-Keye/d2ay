@@ -1,0 +1,26 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001bapi.js)",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyikeye/day2.git"
+  },
+  "author": "Seyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seyikeye/day2/issues"
+  },
+  "homepage": "https://github.com/seyikeye/day2#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
